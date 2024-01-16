@@ -1,0 +1,30 @@
+.login-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #ccc;
+    place-content: center;
+  }
+  
+  .login-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .login-error {
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+  
+  .login-button {
+    margin-top: 20px;
+  }
+  

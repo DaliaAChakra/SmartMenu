@@ -1,0 +1,58 @@
+.chef-orders-container {
+    margin: 20px;
+  }
+  
+  .chef-orders-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .chef-orders-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .chef-order {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f7f7f7;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .chef-order-details {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+  
+  .chef-order-name {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .chef-order-description {
+    margin: 0;
+  }
+  
+  .chef-order-date {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .chef-order-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
